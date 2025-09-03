@@ -1,0 +1,7 @@
+export default function NavBar() {
+  return (
+    <nav style={{ padding: "1rem", background: "#111", color: "#fff" }}>
+      <h1 style={{ margin: 0 }}>🎯 Bullseye Darts League</h1>
+    </nav>
+  );
+}
